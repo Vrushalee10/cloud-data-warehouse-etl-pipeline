@@ -1,10 +1,7 @@
 # cloud-data-warehouse-etl-pipeline
-End-to-end data engineering pipeline using Apache Hop, Oracle Autonomous Database, dimensional modeling, SQL, and Power BI for sales analytics and forecasting
-# Cloud Data Warehouse & ETL Analytics Pipeline
+End-to-end data engineering pipeline using Apache Hop, Oracle Autonomous Database, dimensional modeling, SQL, and Power BI for sales analytics and forecastingI.
 
-An end-to-end data engineering project that transforms raw sales data into an analytics-ready cloud data warehouse using Apache Hop, Oracle Autonomous Database, dimensional modeling, SQL, and Power BI.
-
-## Project Overview
+# Project Overview
 
 The goal of this project was to build a complete data pipeline for sales analytics.
 
